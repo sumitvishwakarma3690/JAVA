@@ -2,7 +2,8 @@ import java.util.*;
 
 public class input {
     public static void main(String[] args) {
-        // Input
+        // How to take Input in java
+
         // Scanner sc = new Scanner(System.in);
         // String name = sc.next();
         // System.out.println(name);
