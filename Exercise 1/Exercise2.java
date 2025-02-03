@@ -1,6 +1,8 @@
 import java.util.*;
 
 // Write a function to print the sum of all odd numbers from 1 to n.
+
+// Solution Link: https://docs.google.com/document/d/1GH4dekttLeTFyTEaowbPyv2ZvyCXnIp1Sbw34NzKBl4/edit?tab=t.0
 public class Exercise2 {
 
     public static void main(String[] args) {
