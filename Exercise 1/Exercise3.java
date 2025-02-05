@@ -2,6 +2,7 @@
 
 
 //Write a function which takes in 2 numbers and returns the greater of those two.
+
 // public class Exercise3 {
 
 //    public static int getGreater(int a, int b) {
